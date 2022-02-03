@@ -1,0 +1,5 @@
+setup.py
+lets_face_it.egg-info/PKG-INFO
+lets_face_it.egg-info/SOURCES.txt
+lets_face_it.egg-info/dependency_links.txt
+lets_face_it.egg-info/top_level.txt
